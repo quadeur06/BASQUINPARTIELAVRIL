@@ -10,3 +10,13 @@ QUINPARTIELAVRIL.git"
 8 ) envoyer avec git push -u origin master
 
 9 ) ajout d'une branche avec  git checkout -b "dev"
+
+10 ) creation d'un hello world dans le program.cs
+
+11 ) git add --all pour ajouter tout les fichiers
+
+12 ) git commit -m "envoie vers dev" pour faire un commit
+
+13 ) git push -u origin dev pour envoyer dans la branche dev
+
+14 ) pour integrer la branche : faire git checkout master
