@@ -20,3 +20,7 @@ QUINPARTIELAVRIL.git"
 13 ) git push -u origin dev pour envoyer dans la branche dev
 
 14 ) pour integrer la branche : faire git checkout master
+
+15 ) et faire git merge dev  pour ajouter les modifications de la branche dev à la branche master
+
+16 ) pour telecharger le dossier 
